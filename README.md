@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BossaMuffin
-- 👀 I’m interested in web and AI programing 
+- 👀 I’m interested in web ontologies and cloud computing 
 - 🌱 I’m currently learning science of the Big data 
 - 💞️ I’m looking to collaborate on python project
 - 📫 How to reach me https://www.bossamuffin.com/contact/
